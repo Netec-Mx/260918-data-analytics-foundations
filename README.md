@@ -1,4 +1,12 @@
+<img src="images/neteclogo (2).png" alt="logo" width="300"/>
+
 # Data Analytics Foundations
+
+
+## Plataforma de laboratorios
+
+
+Te damos la bienvenida a la **plataforma de laboratorios** del curso **Data Analytics Foundations**. Aquí podrás explorar diferentes tecnologías a través de prácticas guiadas. ¡Desarrolla tus habilidades y lleva tus conocimientos al siguiente nivel!
 
 Este curso desarrolla las capacidades fundamentales necesarias para utilizar datos en actividades cotidianas de análisis y toma de decisiones. El participante aprenderá a transformar una necesidad de negocio en preguntas analíticas, identificar fuentes de información, evaluar la calidad de los datos, interpretar métricas y construir visualizaciones básicas que comuniquen hallazgos de manera clara.
 
@@ -6,9 +14,7 @@ La ruta integra conocimientos previamente desarrollados en Excel y SQL sin repet
 
 Después de cada práctica se realizará un reto de aplicación para resolver una situación nueva y promover la autonomía y el pensamiento analítico.
 
-## Estructura
 
-- `CapituloXX/README.md`: guía de laboratorio por capítulo.
 
 ## Lista de laboratorios
 
@@ -54,8 +60,17 @@ Después de cada práctica se realizará un reto de aplicación para resolver un
   - Descripción: Resolver un caso integral de desempeño comercial mediante la definición del problema, selección de fuentes, métricas y criterios, revisión de calidad y preparación del dataset, desarrollo del análisis exploratorio, construcción del dashboard, elaboración de hallazgos y recomendaciones, y presentación con retroalimentación.
   - Duración estimada: 113 min
 
-## Flujo de colaboración
 
-- Trabajar en `changes_course`.
-- Crear Pull Request hacia `main`.
-- Merge por `Squash and merge`.
+## 📬 **Contacto y más información**
+
+
+
+Si tienes alguna pregunta o necesitas más detalles, no dudes en [contactarnos](mailto:soporte@netec.com). También puedes encontrar más recursos en nuestra [página](https://netec.com).
+
+
+
+---
+
+
+
+¡Gracias por visitar nuestra plataforma! No olvides revisar todos los laboratorios y comenzar tu viaje de aprendizaje hoy mismo.
